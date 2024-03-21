@@ -7,10 +7,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1625&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1625" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitin1625" alt="nitin1625" /></a> </p>
-
 - 🔭 I’m currently working on **Database Automation**
 
 - 🌱 I’m currently learning **Generative AI,Langchain,Botpress,Large Language Models etc.**
@@ -45,4 +41,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitin1625&show_icons=true&locale=en" alt="nitin1625" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin1625&" alt="nitin1625" /></p>
