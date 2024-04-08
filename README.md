@@ -12,7 +12,7 @@
 - 💬 Ask me about **Deep Learning and Natural Language Processing**
 - 📫 Reach me at **[nitinsh35@gmail.com](mailto:nitinsh35@gmail.com)**
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/19ZO4MUpsdgyJ-HcSZMAqjjiJBY_KU4mK/view?usp=sharing)
-- ⚡ Fun fact: **I think I'm funny!**
+- ⚡ Fun fact: **Teamwork with Timeouts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
