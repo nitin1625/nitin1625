@@ -1,60 +1,36 @@
-[![MasterHead](https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif)](https://www.linkedin.com/in/nitin1608/)
+![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
+<h3 align="center">A passionate AI developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<h1 align="center">Hi there! 👋 I'm Nitin Sharma</h1>
-<h3 align="center">Passionate Data Scientist | India 🇮🇳</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1625&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1625" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+- 🔭 I’m currently working with **Sonar Technologies International**
 
-- 🔭 I’m currently working on **Building Domain Specific Large Language Models**
-- 🌱 I’m currently learning **Generative AI, Langchain, No Code Automation Tools, Large Language Models, etc.**
-- 👯 I’m looking to collaborate on **Automation (AI) Projects**
-- 🤝 I’m looking for help with **Fine Tune Large Language Models**
-- 💬 Ask me about **Deep Learning and Natural Language Processing**
-- 📫 Reach me at **[nitinsh35@gmail.com](mailto:nitinsh35@gmail.com)**
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/19ZO4MUpsdgyJ-HcSZMAqjjiJBY_KU4mK/view?usp=sharing)
-- ⚡ Fun fact: **Teamwork with Timeouts.**
+- 🌱 I’m currently learning **Generative AI**
+
+- 💬 Ask me about **AI Tools, Langchain,RAG, No Code Automation Tools, Large Language Models,**
+
+- 📫 How to reach me **nitinsh35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/nitin1608" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin1608" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/nitin16aug" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nitin16aug" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/nitinsh35" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nitinsh35" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nitin_16" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin_16" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/nitinsh35" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nitinsh35" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/nitin1608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin1608" height="30" width="40" /></a>
+<a href="https://instagram.com/nitin_vasishtha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitin_vasishtha_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nitin_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitin_16" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%23323330.svg?style=for-the-badge&logo=sql&logoColor=%23F7DF1E) ![Langchain](https://img.shields.io/badge/langchain-%23323330.svg?style=for-the-badge&logo=langchain&logoColor=%23F7DF1E) ![RAG](https://img.shields.io/badge/RAG-%23007ACC.svg?style=for-the-badge&logo=RAG&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%238511FA.svg?style=for-the-badge&logo=Ollama&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-%23DD0031.svg?style=for-the-badge&logo=Gemini&logoColor=white) ![Crew AI](https://img.shields.io/badge/crewAI-6DA55F?style=for-the-badge&logo=CrewAI&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![ChatGpt](https://img.shields.io/badge/ChatGpt-%2300C4CC.svg?style=for-the-badge&logo=ChatGpt&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-%234ea94b.svg?style=for-the-badge&logo=MSSQL&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-3670A0?style=for-the-badge&logo=Jupyter%20Notebook&logoColor=ffdd54) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23DD0031.svg?style=for-the-badge&logo=Machine%20Learning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%2338B2AC.svg?style=for-the-badge&logo=Deep%20Learning&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-%2335495e.svg?style=for-the-badge&logo=Natural%20Language%20Processing&logoColor=%234FC08D) ![Botpress](https://img.shields.io/badge/Botpress-%2320232a.svg?style=for-the-badge&logo=Botpress&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/Flask-%23404d59.svg?style=for-the-badge&logo=Flask&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Flask-%238511FA.svg?style=for-the-badge&logo=Flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nitin1625&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitin1625&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin1625&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=nitin1625&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
