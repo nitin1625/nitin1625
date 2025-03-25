@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1625&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1625" /> </p>
 
 - 🔭 I’m currently working with **Sonar Technologies International**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Integrating Generative AI Solutions with Existing Solutions**
 
-- 💬 Ask me about **AI Tools, Langchain,RAG, No Code Automation Tools, Large Language Models,**
+- 💬 Ask me about **Django,AI Tools, Langchain,RAG, Large Language Models,**
 
 - 📫 How to reach me **nitinsh35@gmail.com**
 
