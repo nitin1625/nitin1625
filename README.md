@@ -74,50 +74,6 @@ class NitinSharma:
 ![NLP](https://img.shields.io/badge/NLP-1c3c3c?style=flat-square&logo=spacy&logoColor=09a3d5)
 ![Streamlit](https://img.shields.io/badge/Streamlit-2d1a3c?style=flat-square&logo=streamlit&logoColor=ff4b4b)
 
----
-
-## 💼 Professional Experience
-
-## 🏢 FNZ Group — *Analyst Developer (AI)*  `Mar 2026 – Present`
-
-> **Advisor AI — Multi-Agent Financial Platform**
-> - Eliminated manual reporting overhead for a **500+ advisor base** — advisors no longer compile portfolio data before client meetings, accelerating preparation and improving consistency of insights  
-> - Built a production-grade multi-agent system using **Microsoft Agent Framework, ASP.NET Core, RAG, MCP, and Cosmos DB**, serving both advisor and client-facing workflows  
-
-> **Dual-Channel Financial AI System**
-> - Delivered two concurrent AI experiences:  
-  >> - Advisor-facing engine for AI-generated portfolio insights  
-  >> - Client-facing self-serve financial analysis portal  
-> - Unified internal and external financial workflows into a single intelligent platform, improving accessibility and decision-making  
-
-
----
-### 🏢 Sonar Technologies International — *Software Developer* `Jul 2024 – Feb 2026`
-
-> **NL → Dashboard AI Agent**
-> - Eliminated a multi-step analyst bottleneck — leaders now get live dashboards directly from a typed question, reducing routine analyst requests by **~70%** and accelerating decision-making across the org
-
-> **Voice AI Assistant for Bookings**
-> - Automated the entire booking flow via voice, cutting manual effort by **50%** and recovering revenue lost to missed or delayed bookings
-
-> **Customer Support Chatbot**
-> - Replaced a third-party support service costing **₹10L/year** with an in-house solution, improving response quality while eliminating the recurring cost entirely
-
----
-
-### 🏢 Sonar Technologies International — *Software Developer Intern* `Jan 2024 – Jul 2024`
-
-> **Limousine Pre-Allocation System**
-> - Contributed to a recommendation engine trained on **2M+ bookings** that reduced idle fleet time by **20%** — directly improving ride availability and revenue per vehicle
-
-> **Employee Management System Bot**
-> - Cut portal navigation time by **40%** by letting employees handle HR tasks through a simple chat interface — significantly reducing friction for non-technical staff
-
-> **Multi-Database SQL Automation**
-> - Eliminated manual script errors across customer databases and reduced processing time by **60%**
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
