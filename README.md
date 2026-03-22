@@ -80,15 +80,15 @@ class NitinSharma:
 
 ## 🏢 FNZ Group — *Analyst Developer (AI)*  `Mar 2026 – Present`
 
-### 🚀 Advisor AI — Multi-Agent Financial Platform
-- Eliminated manual reporting overhead for a **500+ advisor base** — advisors no longer compile portfolio data before client meetings, accelerating preparation and improving consistency of insights  
-- Built a production-grade multi-agent system using **Microsoft Agent Framework, ASP.NET Core, RAG, MCP, and Cosmos DB**, serving both advisor and client-facing workflows  
+> **Advisor AI — Multi-Agent Financial Platform**
+> - Eliminated manual reporting overhead for a **500+ advisor base** — advisors no longer compile portfolio data before client meetings, accelerating preparation and improving consistency of insights  
+> - Built a production-grade multi-agent system using **Microsoft Agent Framework, ASP.NET Core, RAG, MCP, and Cosmos DB**, serving both advisor and client-facing workflows  
 
-### 🔄 Dual-Channel Financial AI System
-- Delivered two concurrent AI experiences:  
+> **Dual-Channel Financial AI System**
+> - Delivered two concurrent AI experiences:  
   - Advisor-facing engine for AI-generated portfolio insights  
   - Client-facing self-serve financial analysis portal  
-- Unified internal and external financial workflows into a single intelligent platform, improving accessibility and decision-making  
+> - Unified internal and external financial workflows into a single intelligent platform, improving accessibility and decision-making  
 
 
 ---
