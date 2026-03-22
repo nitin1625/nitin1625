@@ -104,15 +104,6 @@ class NitinSharma:
 
 ---
 
-## 🚀 Personal Projects
-
-### 📦 RealTime Order Processing System · [**GitHub →**](https://github.com/nitin1625)
-
-- Built to deeply understand scalability, fault-tolerance, and distributed system design in practice
-- Reinforced real-world backend architecture patterns through hands-on implementation
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
