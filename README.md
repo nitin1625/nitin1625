@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1625&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1625" /> </p>
 
-- 🔭 I’m currently working with **FNZ Group**
+- 🔭 I’m currently working with [**FNZ Group**](https://www.fnz.com/)
 
-- 🌱 I’m currently learning **Integrating Generative AI Solutions with Existing Solutions**
+- 🌱 I’m currently learning **Integrating Generative AI Solutions with Existing Products**
 
 - 💬 Ask me about **LangGraph, Langchain, RAG, AI Agents, Voicebots etc.**
 
