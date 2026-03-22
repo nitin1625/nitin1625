@@ -138,9 +138,6 @@ class NitinSharma:
 
 <br/><br/>
 
-<!-- GitHub trophies -->
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=nitin1625&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6" />
-
 </div>
 
 ---
