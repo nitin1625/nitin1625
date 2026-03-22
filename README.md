@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitin1625&label=Profile%20views&color=0e75b6&style=flat" alt="nitin1625" /> </p>
 
-- 🔭 I’m currently working with **Sonar Technologies International**
+- 🔭 I’m currently working with **FNZ Group**
 
 - 🌱 I’m currently learning **Integrating Generative AI Solutions with Existing Solutions**
 
-- 💬 Ask me about **Django,AI Tools, Langchain,RAG, Large Language Models,**
+- 💬 Ask me about **LangGraph, Langchain, RAG, AI Agents, Voicebots etc.**
 
 - 📫 How to reach me **nitinsh35@gmail.com**
 
