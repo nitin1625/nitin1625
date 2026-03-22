@@ -86,8 +86,8 @@ class NitinSharma:
 
 > **Dual-Channel Financial AI System**
 > - Delivered two concurrent AI experiences:  
-  - Advisor-facing engine for AI-generated portfolio insights  
-  - Client-facing self-serve financial analysis portal  
+  >> - Advisor-facing engine for AI-generated portfolio insights  
+  >> - Client-facing self-serve financial analysis portal  
 > - Unified internal and external financial workflows into a single intelligent platform, improving accessibility and decision-making  
 
 
