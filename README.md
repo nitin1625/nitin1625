@@ -1,30 +1,19 @@
 <div align="center">
 
-```
-███╗   ██╗██╗████████╗██╗███╗   ██╗    ███████╗██╗  ██╗ █████╗ ██████╗ ███╗   ███╗ █████╗
-████╗  ██║██║╚══██╔══╝██║████╗  ██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗████╗ ████║██╔══██╗
-██╔██╗ ██║██║   ██║   ██║██╔██╗ ██║    ███████╗███████║███████║██████╔╝██╔████╔██║███████║
-██║╚██╗██║██║   ██║   ██║██║╚██╗██║    ╚════██║██╔══██║██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║
-██║ ╚████║██║   ██║   ██║██║ ╚████║    ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
-```
+<!-- Animated wave header with name -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=130&section=header&text=Nitin%20Sharma&fontSize=44&fontColor=4fc3f7&fontAlignY=65&animation=fadeIn" />
 
-</div>
+<!-- Animated typing subtitle -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Sonar+Technologies;Building+AI+Agents+%26+Voicebots+in+Production;RAG+%7C+LangChain+%7C+Pipecat+%7C+Agno;Turning+Natural+Language+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
----
-
-<div align="center">
-
-# Nitin Sharma
-
-### Software Engineer · AI Agents · Voicebots · Backend Systems
-
-*Building production-grade AI systems that cut costs, automate workflows, and scale.*
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin1608)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ffa116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/nitin_16)
-[![Email](https://img.shields.io/badge/Email-nitinsh35%40gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:nitinsh35@gmail.com)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode%20%7C%201790%20%7C%20Top%208%25-ffa116?style=flat-square&logo=leetcode&logoColor=black)](https://www.leetcode.com/nitin_16)
+[![Email](https://img.shields.io/badge/nitinsh35%40gmail.com-c0392b?style=flat-square&logo=gmail&logoColor=white)](mailto:nitinsh35@gmail.com)
+[![GitHub](https://img.shields.io/badge/nitin1625-2d333b?style=flat-square&logo=github&logoColor=white)](https://github.com/nitin1625)
 ![Profile Views](https://komarev.com/ghpvc/?username=nitin1625&label=Profile+Views&color=546e7a&style=flat-square)
 
 </div>
@@ -35,7 +24,7 @@
 
 ```python
 class NitinSharma:
-    role       = "Software Engineer @ FNZ"
+    role       = "Software Engineer @ Sonar Technologies International"
     location   = "Gurugram, Haryana, India 🇮🇳"
     focus      = ["AI Agents", "Voicebots", "RAG Systems", "Backend Engineering"]
     learning   = "Integrating Generative AI into production-grade products"
@@ -89,7 +78,7 @@ class NitinSharma:
 
 ## 💼 Professional Experience
 
-### 🏢 Sonar Technologies International — *Software Developer* `Jul 2024 – Feb 2026`
+### 🏢 Sonar Technologies International — *Software Developer* `Jul 2024 – Present`
 
 > **NL → Dashboard AI Agent**
 > - Eliminated a multi-step analyst bottleneck — leaders now get live dashboards directly from a typed question, reducing routine analyst requests by **~70%** and accelerating decision-making across the org
@@ -115,15 +104,37 @@ class NitinSharma:
 
 ---
 
+## 🚀 Personal Projects
+
+### 📦 RealTime Order Processing System · [**GitHub →**](https://github.com/nitin1625)
+
+- Built to deeply understand scalability, fault-tolerance, and distributed system design in practice
+- Reinforced real-world backend architecture patterns through hands-on implementation
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Nitin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin1625&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&bg_color=0d1117&title_color=4fc3f7&icon_color=546e7a&text_color=adbac7)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nitin1625&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4fc3f7&icon_color=546e7a&text_color=adbac7&show_icons=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin1625&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=4fc3f7&text_color=adbac7" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitin1625&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4fc3f7&fire=546e7a&currStreakLabel=adbac7)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin1625&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=4fc3f7&text_color=adbac7)
+<!-- Live streak counter -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin1625&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4fc3f7&fire=546e7a&currStreakLabel=adbac7&sideLabels=adbac7&dates=546e7a" />
+
+<br/><br/>
+
+<!-- Activity contribution graph -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitin1625&bg_color=0d1117&color=4fc3f7&line=546e7a&point=4fc3f7&area=true&area_color=1a3a5c&hide_border=true" />
+
+<br/><br/>
+
+<!-- GitHub trophies -->
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=nitin1625&theme=darkhub&no-frame=true&row=1&column=7&margin-w=6" />
 
 </div>
 
@@ -149,9 +160,21 @@ class NitinSharma:
 
 ### 🔝 Top Contributed Repositories
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=nitin1625&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=4fc3f7&text_color=adbac7)
+<img src="https://github-contributor-stats.vercel.app/api?username=nitin1625&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=4fc3f7&text_color=adbac7" />
 
----
+<br/><br/>
+
+<!-- Animated snake contribution graph — requires GitHub Action setup (see note below) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitin1625/nitin1625/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitin1625/nitin1625/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nitin1625/nitin1625/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/><br/>
+
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=80&section=footer" />
 
 *"Turning natural language into actionable intelligence — one agent at a time."*
 
