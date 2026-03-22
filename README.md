@@ -5,7 +5,7 @@
 
 <!-- Animated typing subtitle -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Sonar+Technologies;Building+AI+Agents+%26+Voicebots+in+Production;RAG+%7C+LangChain+%7C+Pipecat+%7C+Agno;Turning+Natural+Language+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+FNZ;Building+AI+Agents+%26+Voicebots+in+Production;RAG+%7C+LangChain+%7C+Pipecat+%7C+Agno;Turning+Natural+Language+into+Intelligence+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -157,11 +157,6 @@ class NitinSharma:
 ---
 
 <div align="center">
-
-### 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=nitin1625&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=4fc3f7&text_color=adbac7" />
-
 <br/><br/>
 
 <!-- Animated snake contribution graph — requires GitHub Action setup (see note below) -->
