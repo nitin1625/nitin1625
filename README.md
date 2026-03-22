@@ -89,7 +89,7 @@ class NitinSharma:
 
 ## 💼 Professional Experience
 
-### 🏢 Sonar Technologies International — *Software Developer* `Jul 2024 – Present`
+### 🏢 Sonar Technologies International — *Software Developer* `Jul 2024 – Feb 2026`
 
 > **NL → Dashboard AI Agent**
 > - Eliminated a multi-step analyst bottleneck — leaders now get live dashboards directly from a typed question, reducing routine analyst requests by **~70%** and accelerating decision-making across the org
